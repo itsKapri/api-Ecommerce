@@ -7,30 +7,7 @@ function Footer() {
 
                     <section className="mb-4">
 
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-                        ><i className="fab fa-facebook-f"></i
-                        ></a>
-
-
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-                        ><i className="fab fa-twitter"/></a>
-
-
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-                        ><i className="fab fa-google"/>
-                        </a>
-
-
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-                        ><i className="fab fa-instagram"/>
-                        </a>
-
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-                        ><i className="fab fa-linkedin-in"/>
-                        </a>
-
-
-                        <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
+                        <a className="btn btn-outline-light btn-floating m-1" href="https://github.com/itsKapri" role="button" target='blank'
                         ><i className="fab fa-github"/>
                         </a>
                     </section>

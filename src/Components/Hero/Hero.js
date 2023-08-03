@@ -107,7 +107,7 @@ function Hero() {
                     <hr />
                     {/* Category Buttons */}
                     <div className="category_button">
-                        <CategoryButton categoryName="All" onClick={handleCategoryChange} />4
+                        <CategoryButton categoryName="All" onClick={handleCategoryChange} />
                         <CategoryButton categoryName="electronics" onClick={handleCategoryChange} />
                         <CategoryButton categoryName="men's clothing" onClick={handleCategoryChange} />
                         <CategoryButton categoryName="women's clothing" onClick={handleCategoryChange} />
