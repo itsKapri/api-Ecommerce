@@ -1,0 +1,23 @@
+.catg {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.btn-outline-secondary:hover {
+  background: rgb(0, 0, 0);
+  color: white;
+  transform: scale(1.03);
+  transition: all 0.3s ease;
+}
+
+.category_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+hr:not([size]) {
+  height: 1.5px;
+  color: black;
+}
